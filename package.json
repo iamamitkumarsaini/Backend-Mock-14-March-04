@@ -1,0 +1,30 @@
+{
+  "name": "backend-mock-14-march-04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamamitkumarsaini/Backend-Mock-14-March-04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamamitkumarsaini/Backend-Mock-14-March-04/issues"
+  },
+  "homepage": "https://github.com/iamamitkumarsaini/Backend-Mock-14-March-04#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.0",
+    "nodemon": "^2.0.21"
+  }
+}
